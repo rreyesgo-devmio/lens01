@@ -24,7 +24,7 @@
     <a href="https://k8slens.dev/" target="_blank">Download</a>
   </p>
   <h3 align="center">
-    The Way The World Runs Kubernetes
+    The Way The World Runs Kubernetes en 2024
   </h3>
   <p align="center">
   Meet the new standard for cloud native software development & operations. <br />
